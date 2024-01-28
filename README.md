@@ -15,10 +15,10 @@
 
 - `Development_React_flask`: We started developing the same thing with React-FrontEnd and Flask-Backend .
     - `frontend`
-        -`src`--->`app.js`(do npm install for downloading node modules)
-        -`components`- All NAVBAR Components
+        -`src`--->`app.js`(do npm install for downloading node modules) .
+        -`components`- All NAVBAR Components .
     -`backend`
-        -`app.py`: Flask code with POST & GET Methods Fetching data for processing
+        -`app.py`: Flask code with POST & GET Methods Fetching data for processing .
     ##### Refer end of the readme for UI sample design and POSTMAN API - GET & POST Requests     
 ## UI Sample Images:
 
