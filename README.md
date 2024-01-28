@@ -22,6 +22,13 @@
     - **backend**
       - `app.py`: Flask code with POST & GET methods for fetching data for processing.
 
+## FIGMA Architecture:
+### Algorithm 1(Arch.):
+![App_1](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/216cd90f-6037-4a13-9a57-96632f4162dc)
+
+### Algorithm 2 & 3 (Arch.):
+![App_2](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/d6faae5c-9194-45ea-9694-c3333f05bddf)
+
 ## Streamlit UI Sample Images:
 
 ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/1f6d8395-96f0-4d7f-8efe-42e9336ede0d)
