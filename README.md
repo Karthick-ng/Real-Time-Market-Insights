@@ -13,14 +13,17 @@
           ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/dec094ca-be78-4cdb-a88b-4820bdebbc40)
     - `3.Personal_invest_ideas_algo.ipynb`: ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/356e928b-bb93-4f77-bf00-e2e55afaad7e)
 
-- `Development_React_flask`: We started developing the same thing with React-FrontEnd and Flask-Backend .
-    - `frontend`:
-    -`src`: has `app.js`(do npm install for downloading node modules) .
-    -`components`: All NAVBAR Components .
-    -`backend`:
-    -`app.py`: Flask code with POST & GET Methods Fetching data for processing .
-    ##### Refer end of the readme for UI sample design and POSTMAN API - GET & POST Requests     
-## UI Sample Images:
+- `Development_React_flask`:
+    - **frontend**
+      - **src**
+        - `app.js`: Main JavaScript file for the React application. Run `npm install` to download required node modules.
+      - **components**
+        - All NAVBAR Components.
+    
+    - **backend**
+      - `app.py`: Flask code with POST & GET methods for fetching data for processing.
+
+## Streamlit UI Sample Images:
 
 ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/1f6d8395-96f0-4d7f-8efe-42e9336ede0d)
 ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/bd0d18ba-2843-4e8c-af7c-654621f6d403)
@@ -28,6 +31,16 @@
 ## UI Demo Video:
 
 
+## Development phase:
+
+## UI
+
+### React-FrontEnd
+![WhatsApp Image 2024-01-27 at 09 55 21_103a2329](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/1eb3300c-6880-478e-bfc8-a50b5ab4a4dc)
+
+### Flask Backend
+##### POSTMAN API -- POST & GET Request
+![WhatsApp Image 2024-01-27 at 13 04 39_4a02391c](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/d3663934-a398-4623-8ecb-5afaa33183f4)
 
 ## Project Overview
 
@@ -133,15 +146,5 @@ The Real-Time Market Insights Platform aims to provide users with a holistic vie
    streamlit run app_stockonauts.py
 
 # Also we started developing a React_Flask app
-## Development phase:
-
-## UI
-
-### React-FrontEnd
-![WhatsApp Image 2024-01-27 at 09 55 21_103a2329](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/1eb3300c-6880-478e-bfc8-a50b5ab4a4dc)
-
-### Flask Backend
-##### POSTMAN API -- POST & GET Request
-![WhatsApp Image 2024-01-27 at 13 04 39_4a02391c](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/d3663934-a398-4623-8ecb-5afaa33183f4)
 
 ## Code Base for this is also uploaded
