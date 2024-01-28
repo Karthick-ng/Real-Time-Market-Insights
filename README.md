@@ -14,10 +14,10 @@
     - `3.Personal_invest_ideas_algo.ipynb`: ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/356e928b-bb93-4f77-bf00-e2e55afaad7e)
 
 - `Development_React_flask`: We started developing the same thing with React-FrontEnd and Flask-Backend .
-    - `frontend`
-        -`src`--->`app.js`(do npm install for downloading node modules) .
-        -`components`- All NAVBAR Components .
-    -`backend`
+    - `frontend`:
+        -`src`: has `app.js`(do npm install for downloading node modules) .
+        -`components`: All NAVBAR Components .
+    -`backend`:
         -`app.py`: Flask code with POST & GET Methods Fetching data for processing .
     ##### Refer end of the readme for UI sample design and POSTMAN API - GET & POST Requests     
 ## UI Sample Images:
