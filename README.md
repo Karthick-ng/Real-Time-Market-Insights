@@ -140,8 +140,22 @@ The Real-Time Market Insights Platform aims to provide users with a holistic vie
 1. Clone the repository.
    ```bash
    git clone [repository_url]
-   cd real-time-market-insights
-   pip install -r requirements.txt
+   
+2. Move into project directory.
+    ```bash
+    cd Real-Time-Market-Insights
+    cd Streamlit_app
+
+3. Create a Virtual Environment and install Requirements.
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate  (on windows)
+    source venv/bin/activate (on MAC)
+  
+    pip install -r requirements.txt
+
+4. Run Streamlit code.
+   ```bash
    streamlit run app_stockonauts.py
 
 # Also we started developing a React_Flask app
