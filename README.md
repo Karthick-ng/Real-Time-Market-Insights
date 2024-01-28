@@ -8,10 +8,9 @@
     - `app_stockonauts.py`: Streamlit app
  
 - `Algorithms_ipynb`:Folder containing ipynb files for 3 algorithms introduced in this project.
-    - `1.Alg_trading.ipynb`: ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/8a5bc68d-119b-486b-a232-7957bf7b3b9d)
-    - `2.Mutli_fac_market_fin_bert.ipynb`:![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/428ab6e6-39d3-448c-bce8-4dc335f34e31)
-          ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/dec094ca-be78-4cdb-a88b-4820bdebbc40)
-    - `3.Personal_invest_ideas_algo.ipynb`: ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/356e928b-bb93-4f77-bf00-e2e55afaad7e)
+    - `1.Alg_trading.ipynb`: Code for the algorithm which used NIM, NPA, P/E Ratio .
+    - `2.Mutli_fac_market_fin_bert.ipynb`: ALgorithm which uses High Performance Colaborations,Digitilization Impacts, MIcro & Macro Economics and NLP Sentiment analysis for news sector wise.
+    - `3.Personal_invest_ideas_algo.ipynb`: Code for Personalized stock investment strategy by  collecting user preferences for investment range, duration and sectors of interest .
 
 - `Development_React_flask`:
     - **frontend**
