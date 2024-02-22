@@ -29,6 +29,10 @@
 ### Algorithm 2 & 3 (Arch.):
 ![App_2](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/d6faae5c-9194-45ea-9694-c3333f05bddf)
 
+## Updated Mobile Application:
+![Trading_stocks app UI (Community)](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/a305ae40-23ad-441e-a461-8d70a90c52ab)
+
+
 ## Streamlit UI Sample Images:
 
 ![image](https://github.com/Karthick-ng/Real-Time-Market-Insights/assets/116434132/1f6d8395-96f0-4d7f-8efe-42e9336ede0d)
